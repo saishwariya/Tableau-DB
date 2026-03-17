@@ -57,7 +57,7 @@ This project is an interactive sales dashboard built using Tableau to analyze an
 
   6. Screenshots / Demo
      
-      Show what the dashboard looks like. -![Alt text] (https://github.com/saishwariya/Tableau-DB/blob/main/Tableau%20dashboard.png).
+      Show what the dashboard looks like. -![Alt text] 
       Example: ![Dashboard Preview].(https://github.com/saishwariya/Tableau-DB/blob/main/Tableau%20dashboard.png)
 
 
