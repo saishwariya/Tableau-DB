@@ -55,7 +55,10 @@ This project is an interactive sales dashboard built using Tableau to analyze an
     *User-Friendly Layout:
      Clean and intuitive dashboard design built using Tableau for easy navigation and analysis.
 
-  6. Screenshots / Demos Show what the dashboard looks like. -
+  6. Screenshots / Demo
+     
+      Show what the dashboard looks like. -![Alt text] (https://github.com/saishwariya/Tableau-DB/blob/main/Tableau%20dashboard.png).
+      Example: ![Dashboard Preview].(https://github.com/saishwariya/Tableau-DB/blob/main/Tableau%20dashboard.png)
 
 
      
