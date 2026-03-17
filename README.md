@@ -36,15 +36,26 @@ This project is an interactive sales dashboard built using Tableau to analyze an
    The best dashboard explanation format.
     *Region Comparison View:
      Side-by-side comparison of Primary and Secondary regions to easily evaluate performance differences.
+   
     *Key KPI Indicators:
      Displays important metrics such as Sales, Profit, Orders, Customers, and Returns for quick insights.
+   
     *Interactive Map Visualization:
      Geographic representation of sales distribution across regions for better spatial understanding.
+   
     *Category & Sub-Category Analysis:
      Detailed breakdown of product performance with visual comparisons across regions.
+   
     *Trend Analysis:
      Time-based charts to track sales and profit trends over a period.
+   
     *Dynamic Filters:
      Allows users to select and compare different regions interactively.
+   
     *User-Friendly Layout:
      Clean and intuitive dashboard design built using Tableau for easy navigation and analysis.
+
+  6. Screenshots / Demos Show what the dashboard looks like. -
+
+
+     
